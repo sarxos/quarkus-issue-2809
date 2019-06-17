@@ -18,7 +18,7 @@
   <modules>
     <module>abberwoult</module>
     <module>abberwoult-deployment</module>
-    <module>abberwoult-example</module>
+    <!-- <module>abberwoult-example</module> -->
   </modules>
 
   <properties>
